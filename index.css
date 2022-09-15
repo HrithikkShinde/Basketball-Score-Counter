@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.container {
+    
+    display: flex;
+    justify-content: space-around;
+}
+.score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+}
+button{
+    background: none;
+
+}
+
+
+
+
